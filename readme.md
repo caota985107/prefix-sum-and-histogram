@@ -1,5 +1,6 @@
 **pp4fpgas [chap8]**
-**prefixsum and histogram**
+
+**Prefix Sum and Histogram**
 
 
 
