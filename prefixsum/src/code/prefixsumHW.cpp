@@ -5,7 +5,7 @@ void prefixsum(int in[SIZE], int out[SIZE]) {
 #pragma HLS INTERFACE s_axilite register port=in
 #pragma HLS INTERFACE s_axilite register port=out
 
-  out[0]=0;
+  out[0]=in[0];
   for(int i=1; i < SIZE; i++) {
 		  out[i] = out[i-1] + in[i];
   }
