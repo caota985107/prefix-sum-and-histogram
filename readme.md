@@ -47,3 +47,11 @@ Histogram Result
 
 ![fig2](https://github.com/caota985107/prefix-sum-and-histogram/blob/main/fig/fig2.png)
 
+
+
+Prefix Sum Analysis
+
+![fig3](https://github.com/caota985107/prefix-sum-and-histogram/blob/main/fig/fig3.png)
+
+
+
