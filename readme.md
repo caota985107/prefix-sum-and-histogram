@@ -1,7 +1,7 @@
 **pp4fpgas [chap8]**
 
 **Prefix Sum and Histogram**
-test
+
 
 
 - Algorithm: 
